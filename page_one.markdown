@@ -1,8 +1,10 @@
 ---
 layout: page
-title: New Page
-permalink: /page_one/
+title: Links
+permalink: /Links/
 ---
+
+This page will include contact details and links to me on other websites etc.
 
 Hey look, this is a new page that I made. Isn't this pretty cool!
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
