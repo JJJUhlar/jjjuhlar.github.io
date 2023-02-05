@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "What makes a good bootcamp?"
+date:   2023-02-05 11:42:10 +0000
+categories: Bootcamp Coding Remote-Learning Learning
+---
+# What makes a good bootcamp?
+I am three weeks into my coding bootcamp at 'Northcoders', and it's been enough time to spur some thoughts about what makes for a good remote learning experience. 
+
+Each day is pretty similar. We start early, at 8:30, and have a lecture delivered over zoom to about 100 of us, about a new programming concept or technique. These have mostly been fundamentals so far (e.g. TDD, recursion, async, and so on). We then break up into 'seminar' groups of about 25 of us, where we walk through today's course work, and any remaining questions. 
+We then immediately begin applying what we've learned by working through a list of tasks/challenges that get harder and harder. If you become blocked, a mentor joins you on zoom and explains where you're going wrong until you are able to continue.
+The rest of the day is spent doing this until 5, sometimes with another seminar to discuss common places people are getting stuck. 
+
+I've been impressed by the quality and consistency of the teaching, especially as more complex topics have been introduced. It's definitely been my best experience of remote work/learning, so far and they've managed to create something better than simply moving lectures online.
+I remember being a student at the very start of the pandemic, and initially considering that - on paper at least - remote teaching via recorded lectures looks like it should be better than in person teaching. You can watch at a pace that works for you, re-watch anything you don't understand, skip content you already know, queue up questions in real time, and so on . . .
+Obviously it didn't turn out quite that way. Anyone who's had this experience of university knows it sucks. Even compared to plain old boring lectures. 
+
+It's not incidental that this change in university teaching resembles surprisingly unsuccessful online courses (e.g. MOOCS), [which can be as low as 0.7%](http://oro.open.ac.uk/43566/#:~:text=Completion%20rates%20(defined%20as%20the,while%20completion%20rates%20have%20increased.) 
+
+Compared to this, bootcamp has managed to leverage some of the good bits about online learning. Mostly by using a fleet of remote mentors who are available throughout the day to assist students who are blocked on something. Meanwhile paired work to ensure students are learning collaboratively, sharing knowledge, and helping one another.
+It's a great system, and one that would be very resource intensive in a class room.
+
+When you're learning in a class, it's difficult to avoid a dynamic in which one half of the class is finding the course too fast, and the other half is finding it too slow. There is a tendency to drag, and go at the pace of the slowest students (which is fine!), but can draw out the content and make it unengaging. Just like spending month after month studying the same damn Shakespeare play at school.
+The combination of continuous coursework and remote assistance from mentors is a really effective way of avoiding this dynamic. Even if you catch on to new ideas quickly, a long list tasks that apply what you've learned which escalate in difficulty mean that there is always plenty of space to stretch yourself and, importantly, you can/will still need to ask for help even when you're doing well. 
+
+I think it's a great model. It should honestly be a baseline for remote learning and I'm curious how it would work with different sorts of skills and content.
+My one note of hesitation is about the 'stack' we are learning, which is based on JavaScript. How hard will it be to pick up new technologies off the back of this? I will have to report back.
+
+TLDR if you're thinking about doing an online course and actually want to learn something, you should look for / avoid these things:
+- Free **<** Paid
+- Solo work **<** Collaborative Work
+- Learn whenever you like **<** Attend at these specific hours
+- No guidance from teachers **<** Mentors check your progress
+- Complete at your own pace **<** You may have to push yourself
+- Anyone can join the course **<** Entry is conditional on a test, exam etc.
+- No penalty for dropping out **<** You will have to reapply
+- No definite end date **<** Fixed schedule.
+- No mandatory course work **<** Completion requires you to apply your knowledge
+- You will not be asked to share your ideas **<** You will have to risk your ideas 
+- Can be a totally private **<**  Public endeavour (if people ask what you're doing, you will have to say you're doing this for 3 months)
