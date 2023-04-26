@@ -3,5 +3,5 @@ layout: page
 title: About
 permalink: /about/
 ---
-Software developer, print-maker, dilletante. Provenance of Sheffield.
+Joseph Uhlar is a front-end developer from Sheffield.
 

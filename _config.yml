@@ -21,7 +21,7 @@
 title: Joseph Uhlar
 email: joseph.uhlar.work@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Temporarily embarrassed 10x developer
+  Front-end developer.
 baseurl: "./" # the subpath of your site, e.g. /blog
 url: "https://jjjuhlar.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: uhlarlar
