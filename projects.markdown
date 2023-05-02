@@ -12,11 +12,9 @@ permalink: /Projects/
 
 <br>
 
-#### House of Games
-- [A website forum where users can view, vote, and comment on reviews of board-games.](https://641476fb7b0d4c220c9ce512--house-of-games-uhlar.netlify.app/)
-- Front-end built with **React.js**. [View the GitHub repo here](https://github.com/JJJUhlar/house-of-games)
-- Back-end with **Node.js**, **Express**, **PostgreSQL**, with **Jest** for testing. [View the GitHub repo here](https://github.com/JJJUhlar/BoardGames) 
-- Testing with Jest
+#### [House of Games]({% post_url 2023-04-02-house-of-games %})
+
+- A website forum where users can view, vote, and comment on reviews of board-games
 
 <br>
 
