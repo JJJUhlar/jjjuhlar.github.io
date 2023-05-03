@@ -23,13 +23,13 @@ permalink: /Projects/
 
 <br>
 
-#### This Website
-- Built with **Ruby** **Jekyll** + GitHub Pages as the static-site generator. Also **SASS**, HTML, markdown files.
+#### This Website!
+- Built with Ruby Jekyll + GitHub Pages. SASS, HTML, markdown files.
 
 <br>
 
 #### Robin Ashley Architects.
-- [Wordpress website built on a LAMP stack,](http://raarchitects.co.uk/) customised with Bootstrap.
+- [Wordpress website built on a LAMP stack,](http://raarchitects.co.uk/), customised further with Bootstrap.
 
 <br>
 

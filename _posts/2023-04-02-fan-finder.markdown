@@ -8,15 +8,19 @@ categories: portfolio
 
 Fan Finder is an app that allows people to find events/gigs near them and fans to go to them with. It includes a map that shows events near the user, and allows them to chat to other fans going to the event.
 
-<img src="{{site.basurl}}/assets/images/posts/ff-splash.png" alt="fan finder" />
-<img src="{{site.basurl}}/assets/images/posts/ff-map-1.png" alt="fan finder" />
-<img src="{{site.basurl}}/assets/images/posts/ff-map-2.png" alt="fan finder" />
-<img src="{{site.basurl}}/assets/images/posts/ff-chat.png" alt="fan finder" />
-<img src="{{site.basurl}}/assets/images/posts/ff-chats.png" alt="fan finder" />
-<img src="{{site.basurl}}/assets/images/posts/ff-forum.png" alt="fan finder" />
-<img src="{{site.basurl}}/assets/images/posts/ff-forum-going.png" alt="fan finder" />
-<img src="{{site.basurl}}/assets/images/posts/ff-gig-going.png" alt="fan finder" />
-<img src="{{site.basurl}}/assets/images/posts/ff-gig-going-2.png" alt="fan finder" />
+<br>
+
+<div style="display: grid; column-gap: 5px; row-gap: 5px; grid-template-columns: repeat(3, 1fr);">
+    <img src="{{site.basurl}}/assets/images/posts/ff-splash.png" alt="fan finder" />
+    <img src="{{site.basurl}}/assets/images/posts/ff-map-1.png" alt="fan finder" />
+    <img src="{{site.basurl}}/assets/images/posts/ff-map-2.png" alt="fan finder" />
+    <img src="{{site.basurl}}/assets/images/posts/ff-chats.png" alt="fan finder" />
+    <img src="{{site.basurl}}/assets/images/posts/ff-chat.png" alt="fan finder" />
+    <img src="{{site.basurl}}/assets/images/posts/ff-forum.png" alt="fan finder" />
+    <img src="{{site.basurl}}/assets/images/posts/ff-forum-going.png" alt="fan finder" />
+    <img src="{{site.basurl}}/assets/images/posts/ff-gig-going.png" alt="fan finder" />
+    <img src="{{site.basurl}}/assets/images/posts/ff-gig-going-2.png" alt="fan finder" />
+</div>
 
 
 <br>
@@ -25,8 +29,8 @@ I worked on this with 3 other people as the last project of our bootcamp. We had
 
 <br />
 
-- [Front-end repo](https://github.com/Oliver1334/fanfinder-fe)
-- [Back-end Repo](https://github.com/JJJUhlar/fanfinder_backend)
+- [**Front-end repo**](https://github.com/Oliver1334/fanfinder-fe)
+- [**Back-end Repo**](https://github.com/JJJUhlar/fanfinder_backend)
 
 <br />
 
@@ -39,7 +43,7 @@ The total development time was only 9 days.
 
 <br />
 
-1. Days 1 to 3 were spent coming up with ideas for our project, and considering how we'd design the application and what kind of tech we would use. We spent a day and a half spiking anything we hadn't used before (including for example MongoDB, Firebase, Xcode) splitting the new tech up between us.
+1. The first couple of days were spent coming up with ideas for our project, and considering how we'd design the application and what kind of tech we would use. We spent a day and a half spiking anything we hadn't used before (including for example MongoDB, Firebase, Xcode) splitting the new tech up between us.
 2. After settling on our MERN stack, we defined what an MVP could look like for us and set about making some wireframes.
 3. A surprising amount of time was spent over the next 2 and a half days figuring out our development environment, and trying to get ahead of problems like how we would deploy Mongo.
 4. Suddenly, all the boiler plate was down on the backend and we could start building out end-points.

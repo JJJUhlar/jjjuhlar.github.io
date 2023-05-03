@@ -11,4 +11,3 @@ permalink: /art/
         {% endif %}
     {% endfor %}
 </div>
-
