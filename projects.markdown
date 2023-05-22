@@ -5,6 +5,11 @@ permalink: /Projects/
 ---
 
 
+#### [Auto Flashcards]({% post_url 2023-05-22-auto-flashcards %})
+- Group project app which allows people to find events near them and fellow fans to enjoy them with.
+
+<br>
+
 #### [Fan Finder]({% post_url 2023-04-02-fan-finder %})
 - Group project app which allows people to find events near them and fellow fans to enjoy them with.
 
@@ -17,7 +22,7 @@ permalink: /Projects/
 
 <br>
 
-#### AI Pet Classifier
+#### [AI Pet Classifier](% post_url 2023-05-15-ai-pets-classifier %)
 - [A computer vision model that can correctly classify images from 36 breeds of cat and dog.](https://huggingface.co/spaces/uhlarlar/newPetClassifier)
 - Used **Python** with **PyTorch**, **NumPy**, and **Pandas** libraries to train a neural network using the 'Oxford Pets' dataset.
 
