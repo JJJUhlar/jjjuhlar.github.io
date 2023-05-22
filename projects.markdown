@@ -6,7 +6,7 @@ permalink: /Projects/
 
 
 #### [Auto Flashcards]({% post_url 2023-05-22-auto-flashcards %})
-- Group project app which allows people to find events near them and fellow fans to enjoy them with.
+- Autoflashcards is a browser plugin that allows users to automatically generate flashcards sumarising any webpage.
 
 <br>
 
