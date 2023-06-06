@@ -5,8 +5,8 @@ permalink: /Projects/
 ---
 
 
-#### [Auto Flashcards]({% post_url 2023-05-22-auto-flashcards %})
-- Autoflashcards is a browser plugin that allows users to automatically generate flashcards sumarising any webpage.
+#### [Super Flashcards]({% post_url 2023-06-06-rebuilding-flashcards-in-vue %})
+- Super Flashcards uses AI to augment the use of flashcards and solve the traditional problems with this learning technique. The browser plugin that allows users to automatically generate flashcards sumarising any webpage.
 
 <br>
 

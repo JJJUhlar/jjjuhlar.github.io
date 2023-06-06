@@ -24,6 +24,6 @@ Autoflashcards aims to address these problems in several ways.
 
 In it's current form, it is possible to use Autoflashcards by cloning the repos for the chrome extension and server:
 - [https://github.com/JJJUhlar/flashcards-server](https://github.com/JJJUhlar/flashcards-server)
-- [https://github.com/JJJUhlar/auto-flashcards-plugin](https://github.com/JJJUhlar/auto-flashcards-plugin)
+- ~https://github.com/JJJUhlar/auto-flashcards-plugin~ *The new repo is available at: https://github.com/JJJUhlar/flashcards-vue-extension*
 
 Each repo contains a Readme with setup instructions.
