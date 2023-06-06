@@ -34,7 +34,7 @@ permalink: /Projects/
 <br>
 
 #### Robin Ashley Architects.
-- [Wordpress website built on a LAMP stack,](http://raarchitects.co.uk/), customised further with Bootstrap.
+- [Wordpress website built on a LAMP stack](http://raarchitects.co.uk/), customised further with Bootstrap.
 
 <br>
 
