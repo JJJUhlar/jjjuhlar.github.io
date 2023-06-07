@@ -22,8 +22,8 @@ permalink: /Projects/
 
 <br>
 
-#### [AI Pet Classifier](% post_url 2023-05-15-ai-pets-classifier %)
-- [A computer vision model that can correctly classify images from 36 breeds of cat and dog.](https://huggingface.co/spaces/uhlarlar/newPetClassifier)
+#### [AI Pet Classifier]({% post_url 2023-05-15-ai-pets-classifier %})
+- [A computer vision model that can correctly classify images from 36 breeds of cat and dog.]({% post_url 2023-05-15-ai-pets-classifier %})
 - Used **Python** with **PyTorch**, **NumPy**, and **Pandas** libraries to train a neural network using the 'Oxford Pets' dataset.
 
 <br>
